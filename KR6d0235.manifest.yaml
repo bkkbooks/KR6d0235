@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6d0235/v1
+canonical_location: https://kanripo.org/bkk/KR6d0235/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 議中興教觀
+  identifiers:
+    alt_id:
+    - X57n0959
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0959.xml
+    old_id: X57n0959
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0235_000.yaml, hash: 'sha256:a550338100468a14c82f3eaf3017be31cbdec4d8fef0f77d30dbeceec8051d98'}
+  - {seq: 1, filename: KR6d0235_001.yaml, hash: 'sha256:db84a3f26f577b0f41f2e886512138c384a1873c98d70b5a8a07ec0d40aa7adb'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6d0235_001.markers.yaml, hash: 'sha256:bf3997428c33cd8861551faddf7600287511872872cc29e67f5e1b279f83aeb9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0235_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 628
+  label: 議中興教觀
+  type: juan
+  level: 1
+hash: sha256:cdb81a0086844a3b314cd97a33df5d4d616e9edab763c238f5b1d0164cca54c5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0235/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 議中興教觀
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0959.xml
+    old_id: X57n0959
+hash: sha256:a550338100468a14c82f3eaf3017be31cbdec4d8fef0f77d30dbeceec8051d98
