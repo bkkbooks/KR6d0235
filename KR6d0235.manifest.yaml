@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0235_000.yaml, hash: 'sha256:a550338100468a14c82f3eaf3017be31cbdec4d8fef0f77d30dbeceec8051d98'}
-  - {seq: 1, filename: KR6d0235_001.yaml, hash: 'sha256:db84a3f26f577b0f41f2e886512138c384a1873c98d70b5a8a07ec0d40aa7adb'}
+  - {seq: 1, filename: KR6d0235_001.yaml, hash: 'sha256:15c07a3c00c78603571230472b8c660b6d675889a37b7e209fbb809b25ef3741'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0235_001.markers.yaml, hash: 'sha256:bf3997428c33cd8861551faddf7600287511872872cc29e67f5e1b279f83aeb9'}
+  - {seq: 0, role: markers, filename: assets/KR6d0235_000.markers.yaml, hash: 'sha256:d4320e6bb08332ca376eb5afd5dec8867d53db45de6fdf0d12478efd74a44442'}
+  - {seq: 1, role: markers, filename: assets/KR6d0235_001.markers.yaml, hash: 'sha256:965267127eaf3316d177893638e310b96935932a103a424ef832ab99e81f7f2c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 議中興教觀
   type: juan
   level: 1
-hash: sha256:cdb81a0086844a3b314cd97a33df5d4d616e9edab763c238f5b1d0164cca54c5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8e51b21e66366f35096eeb059e4ba8daa135956abfae2dd22ebced85a0b97c09
